@@ -14,11 +14,11 @@ Finally we save the control number, total minutes and total hours (simply minute
 Special thanks to IEEE CS, RAS, EMBS and WIE student chapters from Instituto Tecnológico de Morelia and to all our audience for participating in this wonderful event. I hope that this script can be useful in future projects. Fell free to use it, modify it, update it or do wathever you want with it I really don't care haha :satisfied:
 
 Follow **IEEE Tecnológico de Morelia** on Facebook:
-IEEE Tecnológico de Morelia Student branch: https://www.facebook.com/ramaieeeitm
-IEEE Tecnológico de Morelia Computer Society: https://www.facebook.com/CSITMorelia
-IEEE Tecnológico de Morelia Robotics and Automation Society: https://www.facebook.com/RasITMorelia
-IEEE Tecnológico de Morelia Engineering in Medicine and Biology Society: https://www.facebook.com/EMBS-ITMorelia-1966794666946999
-IEEE Tecnológico de Morelia Women in Engineering: https://www.facebook.com/wieitm
+- IEEE Tecnológico de Morelia Student branch: https://www.facebook.com/ramaieeeitm
+- IEEE Tecnológico de Morelia Computer Society: https://www.facebook.com/CSITMorelia
+- IEEE Tecnológico de Morelia Robotics and Automation Society: https://www.facebook.com/RasITMorelia
+- IEEE Tecnológico de Morelia Engineering in Medicine and Biology Society: https://www.facebook.com/EMBS-ITMorelia-1966794666946999
+- IEEE Tecnológico de Morelia Women in Engineering: https://www.facebook.com/wieitm
 
 
 By: Oraclox (Brandon Ceja)
